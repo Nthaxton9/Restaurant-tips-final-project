@@ -1,0 +1,4 @@
+https://github.com/reisanar/datasets/blob/c3a7373a4359b52383435ea9f813dce14a614b7a/RestaurantTips.csv: source
+7 variables: bill, credit, server, tip, guests, day, tip percentage
+questions: 1.Highest tip? 2.correlation between tip and bill? 3.which server more often got better tips? 4.lowest tip pct? 5.what days seem significant to tip amounts?
+1. $10.49 2. not really. some bigger bills had lower tips than those of small bills 3. A  4. 6.7%  5. It seems restuarants definetely cash in on the latter half of weekdays, so wednesday, thursday, and fridays.
